@@ -49,3 +49,6 @@ sudo apt install mariadb-server
 
 # install redis
 sudo apt install redis-server
+
+# gnome extenstions for google chrome
+sudo apt install chrome-gnome-shell
